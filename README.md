@@ -18,11 +18,11 @@ WellShop is an e-commerce website project specializing in ergonomic and health-c
 
 - Angular
 - Typescript
-- Redux
+- NGRX
 - Tailwind
 - Node.js
 - PostgreSQL
-- Prisma
+- Sequelize
 - Stripe
 
 ## Testing
